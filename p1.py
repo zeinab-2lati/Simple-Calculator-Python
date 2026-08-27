@@ -11,12 +11,12 @@ def operation():
     
     
     elif operator == "-" : 
-        result = number2 - number1
+        result = number1 - number2
         print(result)
     
     
     elif operator == "/" :
-        result =number2 / number1
+        result =number1 / number2
         print(result)
     
 
